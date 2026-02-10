@@ -265,5 +265,5 @@ Good luck with your lab! Remember: start simple, test often, and don't give up! 
 ---
 
 **Course**: Computer Networks Lab
-**Institution**: Air University Islamabad
+**Institution**: Fazaia Bilquis College of Education for Women, PAF Nur Khan
 **Semester**: 4 (BS Computer Science)
