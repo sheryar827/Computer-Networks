@@ -230,11 +230,11 @@ telnet 127.0.0.1 9001
 
 ## 🎓 Learning Path
 
-1. **Week 1**: Understand basic TCP (files 1_*)
-2. **Week 2**: Learn protocols (files 2_*)
-3. **Week 3**: Master UDP (files 3_*)
-4. **Week 4**: Threading & multi-client (files 4_*)
-5. **Week 5**: File transfer (files 5_*)
+1. **Level 1**: Understand basic TCP (files 1_*)
+2. **Level 2**: Learn protocols (files 2_*)
+3. **Level 3**: Master UDP (files 3_*)
+4. **Level 4**: Threading & multi-client (files 4_*)
+5. **Level 5**: File transfer (files 5_*)
 6. **Assignment**: Daytime server (files 6_*)
 7. **Advanced**: OOP approach (files 7_*)
 
